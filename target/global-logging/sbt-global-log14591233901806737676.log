@@ -1,0 +1,8 @@
+[debug] > Exec(ergherg, None, None)
+[error] Not a valid command: ergherg
+[error] Not a valid project ID: ergherg
+[error] Expected ':'
+[error] Not a valid key: ergherg
+[error] ergherg
+[error]        ^
+[debug] > Exec(idea-shell, None, None)
